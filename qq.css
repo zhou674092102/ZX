@@ -1,6 +1,7 @@
  body{
     background: url(557E.jpg); 
      background-color: #eee;
+	 background-size: 100% 100%;
       /*background: rgba(255,255,255,.3);*/
   }
 	.black1{
